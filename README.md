@@ -15,25 +15,25 @@
 
 ## Skills
 
-   - Programming Languages
-         PHP, Node.js, JavaScript, Python, TypeScript, Java
-   - Front-end Development
-         React, Next.js, Vue.js, AngularJS, React Native, CI, Yii
-   - Back-end Development
-         ExpressJS, Spring Boot, Laravel, Django
-   - Database Management
-         MySQL, PostgreSQL, SQLite, Oracle, MongoDB
-   - DevOps Skills
-         Cloud Proficiency       : AWS, Azure, Netlify, Google Cloud
-         Version Control Systems : GitHub, GitLab
-         Monitoring and Logging  : ELK Stack
-         Collaboration Tools     : Slack, Trello, Jira, Microsoft Teams
-   - Blockchain Expertise:
-         General-purpose Languages: Solidity, Rust, Go
-         Frameworks: Ethereum, Hyperledger Fabric, Corda, EOSIO
-         Key Concepts: DApps, DeFi, KYC compliance, NFTs
-   - Bot Development:
-         Experience in developing chatbots for CMS integration.
-         Proficient in creating Telegram and WhatsApp chatbots as well as trading 
+   - Programming Languages<br>
+         PHP, Node.js, JavaScript, Python, TypeScript, Java<br>
+   - Front-end Development<br>
+         React, Next.js, Vue.js, AngularJS, React Native, CI, Yii<br>
+   - Back-end Development<br>
+         ExpressJS, Spring Boot, Laravel, Django<br>
+   - Database Management<br>
+         MySQL, PostgreSQL, SQLite, Oracle, MongoDB<br>
+   - DevOps Skills<br>
+         Cloud Proficiency       : AWS, Azure, Netlify, Google Cloud<br>
+         Version Control Systems : GitHub, GitLab<br>
+         Monitoring and Logging  : ELK Stack<br>
+         Collaboration Tools     : Slack, Trello, Jira, Microsoft Teams<br>
+   - Blockchain Expertise<br>
+         General-purpose Languages: Solidity, Rust, Go<br>
+         Frameworks: Ethereum, Hyperledger Fabric, Corda, EOSIO<br>
+         Key Concepts: DApps, DeFi, KYC compliance, NFTs<br>
+   - Bot Development<br>
+         Experience in developing chatbots for CMS integration.<br>
+         Proficient in creating Telegram and WhatsApp chatbots as well as trading<br>
 </div>
 </div>
