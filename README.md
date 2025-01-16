@@ -14,8 +14,9 @@
 - **Email:** &nbsp; <a href="mailto:skytech2510@gmail.com" target="_blank">`skytech2510@gmail.com`</a>
 
 ## Skills
-
-   - Programming Languages<br>
+<div style="display: flex; flex-direction: row; justify-content: space-between">
+<div>
+- Programming Languages<br>
          PHP, Node.js, JavaScript, Python, TypeScript, Java<br>
    - Front-end Development<br>
          React, Next.js, Vue.js, AngularJS, React Native, CI, Yii<br>
@@ -28,12 +29,18 @@
          Version Control Systems : GitHub, GitLab<br>
          Monitoring and Logging  : ELK Stack<br>
          Collaboration Tools     : Slack, Trello, Jira, Microsoft Teams<br>
-   - Blockchain Expertise<br>
+</div>
+<div>
+- Blockchain Expertise<br>
          General-purpose Languages: Solidity, Rust, Go<br>
          Frameworks: Ethereum, Hyperledger Fabric, Corda, EOSIO<br>
          Key Concepts: DApps, DeFi, KYC compliance, NFTs<br>
    - Bot Development<br>
          Experience in developing chatbots for CMS integration.<br>
          Proficient in creating Telegram and WhatsApp chatbots as well as trading<br>
+</div>
+</div>
+   
+   
 </div>
 </div>
