@@ -11,7 +11,7 @@
 
 - **Looking to work on position:** Senior Blockchain, AI, and Full-stack developer
 - **Interested in:** Web project(MERN, Laravel and vue.js, Ruby on Rails, GraphQL, Web3, Webflow), Data science, Blockchain Project(NFT, DeFi, KYC), AI project(Prompt Engineering, Data Scraping, NLP, Generative AI),
-- **Email:** &nbsp; `<a href="mailto:skytech2510@gmail.com" target="_blank">`skytech2510@gmail.com`</a>`
+- **Email:** &nbsp; <a href="mailto:skytech2510@gmail.com" target="_blank">`skytech2510@gmail.com`</a>
 
 ## Skills
 
