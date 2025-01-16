@@ -5,14 +5,7 @@
 
 
 
-<div style="position: relative">
-  <div style="position: absolute; z-index: 0; right: 0px; top: 400px; translate">
-  <img src="./assets/certificates/algorithms for dna sequencing.png" width="100%" height="200px" alt="Solidity" style="z-index: -1; transform: rotate(45deg);" />
-  </div>
-  <div style="position: absolute; z-index: 0; right: 20px; top: 300px; translate">
-  <img src="./assets/certificates/algorithms for dna sequencing.png" width="100%" height="200px" alt="Solidity" style="z-index: -1; transform: rotate(30deg);" />
-  </div>
-  <div style="z-index: 1">
+<div>
 
 ### ABOUT ME
 
