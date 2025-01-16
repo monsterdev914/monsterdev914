@@ -35,6 +35,5 @@
    - Bot Development:
          Experience in developing chatbots for CMS integration.
          Proficient in creating Telegram and WhatsApp chatbots as well as trading 
-<hr>
 </div>
 </div>
