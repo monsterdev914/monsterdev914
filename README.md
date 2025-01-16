@@ -39,7 +39,7 @@
 </div>
 </div>
 
-### TECHNOLOGY
+<!-- ### TECHNOLOGY -->
 <table align="center">
   <tr>
     <td align="center" width="90">
