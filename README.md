@@ -16,7 +16,8 @@
 ## Skills
 <div style="display: flex; flex-direction: row; justify-content: space-between">
 <div>
-- Programming Languages<br>
+
+   - Programming Languages<br>
          PHP, Node.js, JavaScript, Python, TypeScript, Java<br>
    - Front-end Development<br>
          React, Next.js, Vue.js, AngularJS, React Native, CI, Yii<br>
@@ -31,7 +32,8 @@
          Collaboration Tools     : Slack, Trello, Jira, Microsoft Teams<br>
 </div>
 <div>
-- Blockchain Expertise<br>
+
+   - Blockchain Expertise<br>
          General-purpose Languages: Solidity, Rust, Go<br>
          Frameworks: Ethereum, Hyperledger Fabric, Corda, EOSIO<br>
          Key Concepts: DApps, DeFi, KYC compliance, NFTs<br>
