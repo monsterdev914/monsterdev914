@@ -1,5 +1,5 @@
 <h1 align="center">
-<div align="center">💫 Frontend | Backend | Blockchain Developer 💫 &nbsp;</div>
+<div align="center">💫 Full Stack | Blockchain Developer 💫 &nbsp;</div>
 </h1>
 
 
