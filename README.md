@@ -14,7 +14,7 @@
 - **Email:** &nbsp; <a href="mailto:skytech2510@gmail.com" target="_blank">`skytech2510@gmail.com`</a>
 
 ## Skills
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<img align="right" alt="Coding" width="400" src="https://github.com/skytech2510/skytech2510/blob/main/assets/certificates/algorithms%20for%20dna%20sequencing.png">
    - Programming Languages<br>
          PHP, Node.js, JavaScript, Python, TypeScript, Java<br>
    - Front-end Development<br>
