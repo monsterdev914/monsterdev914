@@ -1,5 +1,5 @@
 <h1 align="center">
-<div align="center">🌐 Full Stack | Blockchain Developer &nbsp;</div>
+<div align="center">🌐 Full Stack(Web3 + Web2) | AI Engineer &nbsp;</div>
 </h1>
 
 
