@@ -16,11 +16,11 @@
 ## Skills
 <!-- <img align="right" alt="Coding" width="400" src="https://beige-select-ox-761.mypinata.cloud/ipfs/bafybeiaw7hzve6hcwmjkb7vcvo4wn4pty6btrl7jdtzmvwkbba73sk5swy" style="transform: rotate(30deg);"> -->
    - Programming Languages<br>
-         PHP, Node.js, JavaScript, Python, TypeScript, Java<br>
+         PHP, Node.js, JavaScript, Python, TypeScript, Java, Go, Ruby<br>
    - Front-end Development<br>
-         React, Next.js, Vue.js, AngularJS, React Native, CI, Yii<br>
+         React, Next.js, Vue.js, AngularJS, React Native<br>
    - Back-end Development<br>
-         ExpressJS, Spring Boot, Laravel, Django<br>
+         ExpressJS, Spring Boot, Laravel, Ruby on Rails, GoLang, Django<br>
    - Database Management<br>
          MySQL, PostgreSQL, SQLite, Oracle, MongoDB<br>
    - DevOps Skills<br>
