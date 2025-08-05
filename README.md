@@ -14,7 +14,7 @@
 - **Email:** &nbsp; <a href="mailto:skytech2510@gmail.com" target="_blank">`skytech2510@gmail.com`</a>
 
 ## Skills
-<!-- <img align="right" alt="Coding" width="400" src="https://beige-select-ox-761.mypinata.cloud/ipfs/bafybeiaw7hzve6hcwmjkb7vcvo4wn4pty6btrl7jdtzmvwkbba73sk5swy" style="transform: rotate(30deg);"> -->
+<img align="right" alt="Coding" width="400" src="https://beige-select-ox-761.mypinata.cloud/ipfs/bafybeiaw7hzve6hcwmjkb7vcvo4wn4pty6btrl7jdtzmvwkbba73sk5swy" style="transform: rotate(30deg);">
    - Programming Languages<br>
          PHP, Node.js, JavaScript, Python, TypeScript, Java, Go, Ruby<br>
    - Front-end Development<br>
